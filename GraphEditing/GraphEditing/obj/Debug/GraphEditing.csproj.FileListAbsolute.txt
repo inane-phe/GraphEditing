@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\GraphEditing\GraphEditing\bin\Debug\GraphEditing.exe.config
+C:\Users\User\Downloads\GraphEditing\GraphEditing\bin\Debug\GraphEditing.exe
+C:\Users\User\Downloads\GraphEditing\GraphEditing\bin\Debug\GraphEditing.pdb
+C:\Users\User\Downloads\GraphEditing\GraphEditing\obj\Debug\GraphEditing.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\GraphEditing\GraphEditing\obj\Debug\GraphEditing.Form1.resources
+C:\Users\User\Downloads\GraphEditing\GraphEditing\obj\Debug\GraphEditing.Properties.Resources.resources
+C:\Users\User\Downloads\GraphEditing\GraphEditing\obj\Debug\GraphEditing.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\GraphEditing\GraphEditing\obj\Debug\GraphEditing.exe
+C:\Users\User\Downloads\GraphEditing\GraphEditing\obj\Debug\GraphEditing.pdb
