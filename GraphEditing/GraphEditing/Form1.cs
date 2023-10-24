@@ -66,7 +66,7 @@ namespace GraphEditing
                 imagePicturebox.Width = (int)(imagePicturebox.Width * scaleFactor);
                 imagePicturebox.Height = (int)(imagePicturebox.Height * scaleFactor);
             }
-            else if (e.Delta < 0 && newWidth >= originalImageList[currentImageIndex].Width * maxScaleFator && newHeight >= originalImageList[currentImageIndex].Height * maxScaleFator)
+            else if (e.Delta < 0 && newWidth >= originalImageList[currentImageIndex].Width * minScaleFator && newHeight >= originalImageList[currentImageIndex].Height * minScaleFator)
             {
                 imagePicturebox.Width = (int)(imagePicturebox.Width / scaleFactor);
                 imagePicturebox.Height = (int)(imagePicturebox.Height / scaleFactor);
